@@ -17,3 +17,15 @@
    statement:执行sql的对象
    ResultSet:结果集对象，封装查询结果
    PreparedStatement：执行sql的对象
+
+6、数据连接池：就是一个容器（集合），存放数据库连接的容器。
+     *标准接口：Datasource
+     *数据库厂商实现：
+           C3P0:数据库连接池技术
+           Druid:数据库连接池实现技术，阿里巴巴
+
+7、Spring框架对JDBC的简单封装，提供JDBCTemplate对象
+     1、导入jar包
+     2、创建JDBCTemplate对象，一来数据源DataSource
+         *JdbcTemplate template=new JdbcTemplate(ds);
+     3、调用JdbcTemplate的方法完成CRUD操作
