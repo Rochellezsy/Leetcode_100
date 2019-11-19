@@ -1,0 +1,19 @@
+今日学习重点：
+1、statement接口与PreparedStatement接口区别：
+     *解决SQL注入问题，安全
+     *PreparedStatement为Statement子接口
+     *效率更高
+2、JDBC控制事务：使用Connection对象管理事务
+     *开启事务 setAutoCommit(false)
+     *提交事务 commit()
+     *在catch()中回滚事务 rollback()
+3、不想传递参数，并保证通用型解决办法可以通过配置文件:
+     *Properties pro =new Properties();
+4、获取src路径下的文件的方式：classLoader 类加载器：
+     *ClassLoader classLoader
+     *URL res=classLoader.getResource();
+5、DriverManager:驱动管理对象
+   Connection:数据库连接对象
+   statement:执行sql的对象
+   ResultSet:结果集对象，封装查询结果
+   PreparedStatement：执行sql的对象
