@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="19.11.19 JDBC接口、事务学习">
+      <change afterPath="$PROJECT_DIR$/src/GraphPaint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet206_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet46_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amicablenumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode100/Leet1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode100/Leet1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode100/javaweb/cn/itcast/reflect/ReflectDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode100/javaweb/cn/itcast/reflect/ReflectDemo.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +29,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RK0eKoefAlCNJWj59wxartJxRJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Daily learning record" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,6 +46,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Daily learning record" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReflectDemo">
+  <component name="RunManager" selected="Application.amicablenumber">
     <configuration name="Leet069" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leet069" />
       <module name="Leetcode100" />
@@ -72,13 +86,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet78_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet78_1" />
-      <module name="Leetcode100" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReflectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaweb.cn.itcast.reflect.ReflectDemo" />
       <module name="Leetcode100" />
@@ -92,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="amicablenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amicablenumber" />
+      <module name="Leetcode100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.amicablenumber" />
         <item itemvalue="Application.ReflectDemo" />
         <item itemvalue="Application.Leet226" />
         <item itemvalue="Application.Leet069" />
         <item itemvalue="Application.Leet69" />
-        <item itemvalue="Application.Leet78_1" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +142,14 @@
       <workItem from="1573373565006" duration="14563000" />
       <workItem from="1573559089484" duration="3689000" />
       <workItem from="1574084918174" duration="10000" />
-      <workItem from="1574084931250" duration="2815000" />
+      <workItem from="1574084931250" duration="5229000" />
+      <workItem from="1574175660775" duration="459000" />
+      <workItem from="1574177424743" duration="382000" />
+      <workItem from="1574239445222" duration="755000" />
+      <workItem from="1574498879878" duration="1645000" />
+      <workItem from="1574673165126" duration="1400000" />
+      <workItem from="1574764960774" duration="229000" />
+      <workItem from="1574943042762" duration="6392000" />
     </task>
     <task id="LOCAL-00001" summary="乱七八糟">
       <created>1574090865896</created>
@@ -144,7 +165,77 @@
       <option name="project" value="LOCAL" />
       <updated>1574092640928</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="19.11.19 JDBC接口、事务学习">
+      <created>1574154502082</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574154502082</updated>
+    </task>
+    <task id="LOCAL-00004" summary="19.11.19 JDBC接口、事务学习">
+      <created>1574176036663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574176036663</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Leet206">
+      <created>1574177719787</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574177719787</updated>
+    </task>
+    <task id="LOCAL-00006" summary="19.11.20 JavaWeb和HTML">
+      <created>1574253498307</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574253498307</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1、html表单学习&#10;2、CSS学习&#10;3、学习javascript基础">
+      <created>1574499662769</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574499662769</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1、javascript高级特性学习&#10;2、重要BOM及DOM&#10;3、学习事件">
+      <created>1574499733409</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574499733409</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1、Bootstrap框架学习及使用&#10;2、XML学习语法及解析&#10;3、Jsoup解析器的学习与使用">
+      <created>1574500343242</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574500343242</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改">
+      <created>1574500501803</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574500501803</updated>
+    </task>
+    <task id="LOCAL-00011" summary="web服务器软件Tomcat学习以及简单servlet">
+      <created>1574673942244</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574673942244</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Servlet学习&#10;HTTP协议学习&#10;以及Request">
+      <created>1574765052131</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574765052131</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +246,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -164,7 +257,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="乱七八糟" />
     <MESSAGE value="111" />
-    <option name="LAST_COMMIT_MESSAGE" value="111" />
+    <MESSAGE value="19.11.19 JDBC接口、事务学习" />
+    <MESSAGE value="Leet206" />
+    <MESSAGE value="19.11.20 JavaWeb和HTML" />
+    <MESSAGE value="1、html表单学习&#10;2、CSS学习&#10;3、学习javascript基础" />
+    <MESSAGE value="1、javascript高级特性学习&#10;2、重要BOM及DOM&#10;3、学习事件" />
+    <MESSAGE value="1、Bootstrap框架学习及使用&#10;2、XML学习语法及解析&#10;3、Jsoup解析器的学习与使用" />
+    <MESSAGE value="修改" />
+    <MESSAGE value="web服务器软件Tomcat学习以及简单servlet" />
+    <MESSAGE value="Servlet学习&#10;HTTP协议学习&#10;以及Request" />
+    <option name="LAST_COMMIT_MESSAGE" value="Servlet学习&#10;HTTP协议学习&#10;以及Request" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
