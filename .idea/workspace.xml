@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="19.11.19 JDBC接口、事务学习">
-      <change afterPath="$PROJECT_DIR$/src/GraphPaint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet206_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet46_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/amicablenumber.java" afterDir="false" />
+    <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Leet104_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet104_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Primenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrieNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode100/Leet1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode100/Leet1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode100/javaweb/cn/itcast/reflect/ReflectDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode100/javaweb/cn/itcast/reflect/ReflectDemo.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.amicablenumber">
+  <component name="RunManager" selected="Application.Primenumber">
     <configuration name="Leet069" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leet069" />
       <module name="Leetcode100" />
@@ -79,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet69" />
+    <configuration name="Primenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Primenumber" />
       <module name="Leetcode100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Primenumber" />
         <item itemvalue="Application.amicablenumber" />
         <item itemvalue="Application.ReflectDemo" />
         <item itemvalue="Application.Leet226" />
         <item itemvalue="Application.Leet069" />
-        <item itemvalue="Application.Leet69" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +150,7 @@
       <workItem from="1574498879878" duration="1645000" />
       <workItem from="1574673165126" duration="1400000" />
       <workItem from="1574764960774" duration="229000" />
-      <workItem from="1574943042762" duration="6392000" />
+      <workItem from="1574943042762" duration="13201000" />
     </task>
     <task id="LOCAL-00001" summary="乱七八糟">
       <created>1574090865896</created>
@@ -235,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574765052131</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="刷题">
+      <created>1574957331057</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574957331057</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +274,8 @@
     <MESSAGE value="修改" />
     <MESSAGE value="web服务器软件Tomcat学习以及简单servlet" />
     <MESSAGE value="Servlet学习&#10;HTTP协议学习&#10;以及Request" />
-    <option name="LAST_COMMIT_MESSAGE" value="Servlet学习&#10;HTTP协议学习&#10;以及Request" />
+    <MESSAGE value="刷题" />
+    <option name="LAST_COMMIT_MESSAGE" value="刷题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
