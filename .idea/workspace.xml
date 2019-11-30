@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leet104_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet104_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Primenumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrieNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet94_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,16 +62,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Primenumber">
-    <configuration name="Leet069" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet069" />
+  <component name="RunManager" selected="Application.Permutation">
+    <configuration name="Leet226" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet226" />
       <module name="Leetcode100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet226" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet226" />
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
       <module name="Leetcode100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.Primenumber" />
         <item itemvalue="Application.amicablenumber" />
         <item itemvalue="Application.ReflectDemo" />
         <item itemvalue="Application.Leet226" />
-        <item itemvalue="Application.Leet069" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +147,7 @@
       <workItem from="1574498879878" duration="1645000" />
       <workItem from="1574673165126" duration="1400000" />
       <workItem from="1574764960774" duration="229000" />
-      <workItem from="1574943042762" duration="13201000" />
+      <workItem from="1574943042762" duration="22737000" />
     </task>
     <task id="LOCAL-00001" summary="乱七八糟">
       <created>1574090865896</created>
@@ -243,7 +240,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574957331057</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="刷题">
+      <created>1575021689582</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575021689582</updated>
+    </task>
+    <task id="LOCAL-00015" summary="刷题">
+      <created>1575112973705</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575112973705</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
