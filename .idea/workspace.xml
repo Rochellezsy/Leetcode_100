@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leet110_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet21_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet21_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet69_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet69_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet91_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet104_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet108_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet108_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet110_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet69_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet91_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet94_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet98_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permute.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leet1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leet1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leet21_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leet21_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quicksort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leet21_2">
+  <component name="RunManager" selected="Application.Permute">
     <configuration name="Leet21_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leet21_2" />
       <module name="Leetcode100" />
@@ -80,22 +86,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Primenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Primenumber" />
+    <configuration name="Permute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Permute" />
       <module name="Leetcode100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaweb.cn.itcast.reflect.ReflectDemo" />
+    <configuration name="Primenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Primenumber" />
       <module name="Leetcode100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaweb.cn.itcast.reflect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Permute" />
         <item itemvalue="Application.Leet21_2" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.Primenumber" />
         <item itemvalue="Application.amicablenumber" />
-        <item itemvalue="Application.ReflectDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,8 @@
       <workItem from="1574498879878" duration="1645000" />
       <workItem from="1574673165126" duration="1400000" />
       <workItem from="1574764960774" duration="229000" />
-      <workItem from="1574943042762" duration="27078000" />
+      <workItem from="1574943042762" duration="27356000" />
+      <workItem from="1575266996253" duration="6599000" />
     </task>
     <task id="LOCAL-00001" summary="乱七八糟">
       <created>1574090865896</created>
@@ -264,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575124701744</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="刷题">
+      <created>1575205821998</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1575205821998</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

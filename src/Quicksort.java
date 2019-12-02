@@ -4,11 +4,8 @@ public class Quicksort {
             return;
         }
         int p=partition(nums,left,right);
-
         quicksort(nums, left,p-1);
         quicksort(nums,p+1,right);
-
-
     }
 
     public int partition(int[]nums,int left,int right){

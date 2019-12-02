@@ -19,9 +19,7 @@ public class Leet1_3 {
                 result[1]=map.get(ans);
 
             }
-
         }
         return result;
-
     }
 }
