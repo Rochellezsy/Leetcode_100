@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leet104_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet108_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet108_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet110_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet69_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet91_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet94_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet98_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutioninfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leet1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leet1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leet21_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leet21_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quicksort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +141,8 @@
       <workItem from="1574673165126" duration="1400000" />
       <workItem from="1574764960774" duration="229000" />
       <workItem from="1574943042762" duration="27356000" />
-      <workItem from="1575266996253" duration="6599000" />
+      <workItem from="1575266996253" duration="6937000" />
+      <workItem from="1575356520535" duration="4044000" />
     </task>
     <task id="LOCAL-00001" summary="乱七八糟">
       <created>1574090865896</created>
@@ -272,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575205821998</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="刷题">
+      <created>1575292937274</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1575292937274</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
