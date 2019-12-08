@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solutioninfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Newcoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Newcoder_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Newcoder_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode100/Quicksort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode100/Quicksort.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Permute">
+  <component name="RunManager" selected="Application.Newcoder_2">
     <configuration name="Leet21_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leet21_2" />
       <module name="Leetcode100" />
@@ -69,8 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Permutation" />
+    <configuration name="Newcoder_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Newcoder_1" />
+      <module name="Leetcode100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Newcoder_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Newcoder_2" />
       <module name="Leetcode100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,15 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Primenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Primenumber" />
-      <module name="Leetcode100" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="amicablenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="amicablenumber" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="Leetcode100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Newcoder_2" />
+        <item itemvalue="Application.Newcoder_1" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Permute" />
         <item itemvalue="Application.Leet21_2" />
-        <item itemvalue="Application.Permutation" />
-        <item itemvalue="Application.Primenumber" />
-        <item itemvalue="Application.amicablenumber" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +146,9 @@
       <workItem from="1574943042762" duration="27356000" />
       <workItem from="1575266996253" duration="6937000" />
       <workItem from="1575356520535" duration="4044000" />
+      <workItem from="1575372228349" duration="140000" />
+      <workItem from="1575464821770" duration="1905000" />
+      <workItem from="1575703233223" duration="9162000" />
     </task>
     <task id="LOCAL-00001" summary="乱七八糟">
       <created>1574090865896</created>
@@ -270,7 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575292937274</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="写的自己都看不下去">
+      <created>1575372253543</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1575372253543</updated>
+    </task>
+    <task id="LOCAL-00020" summary="我对自己很无语">
+      <created>1575469598213</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1575469598213</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,7 +322,10 @@
     <MESSAGE value="web服务器软件Tomcat学习以及简单servlet" />
     <MESSAGE value="Servlet学习&#10;HTTP协议学习&#10;以及Request" />
     <MESSAGE value="刷题" />
-    <option name="LAST_COMMIT_MESSAGE" value="刷题" />
+    <MESSAGE value="写的自己都看不下去" />
+    <MESSAGE value="我对自己狠无语" />
+    <MESSAGE value="我对自己很无语" />
+    <option name="LAST_COMMIT_MESSAGE" value="我对自己很无语" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
