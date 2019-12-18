@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mystack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Runnabletest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ttest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet237.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -152,6 +149,8 @@
       <workItem from="1576226001584" duration="640000" />
       <workItem from="1576228352492" duration="23000" />
       <workItem from="1576497575276" duration="15000" />
+      <workItem from="1576497600840" duration="64000" />
+      <workItem from="1576637220176" duration="271000" />
     </task>
     <task id="LOCAL-00001" summary="乱七八糟">
       <created>1574090865896</created>
@@ -314,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576226749712</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2">
+      <created>1576497627869</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1576497627869</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,7 +358,8 @@
     <MESSAGE value="写的什么玩意儿" />
     <MESSAGE value="基础程序设计" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
