@@ -10,8 +10,6 @@ public class Leet141_2 {
 
         }
         return true;
-
-
     }
 
 }
