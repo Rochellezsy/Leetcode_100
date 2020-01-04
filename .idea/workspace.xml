@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leet237.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet387.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet387_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Daily learning record" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,16 +62,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ttest">
-    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyThread" />
+  <component name="RunManager" selected="Application.Leet83">
+    <configuration name="Leet83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet83" />
       <module name="Leetcode100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Newcoder_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Newcoder_1" />
+    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyThread" />
       <module name="Leetcode100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leet83" />
         <item itemvalue="Application.Ttest" />
         <item itemvalue="Application.Runnabletest" />
         <item itemvalue="Application.MyThread" />
         <item itemvalue="Application.Newcoder_2" />
-        <item itemvalue="Application.Newcoder_1" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +152,19 @@
       <workItem from="1576228352492" duration="23000" />
       <workItem from="1576497575276" duration="15000" />
       <workItem from="1576497600840" duration="64000" />
-      <workItem from="1576637220176" duration="271000" />
+      <workItem from="1576637220176" duration="423000" />
+      <workItem from="1576637760108" duration="21000" />
+      <workItem from="1576667759269" duration="2369000" />
+      <workItem from="1577091001273" duration="5712000" />
+      <workItem from="1577431385396" duration="11000" />
+      <workItem from="1577862482539" duration="13000" />
+      <workItem from="1577863886025" duration="970000" />
+      <workItem from="1577869170159" duration="256000" />
+      <workItem from="1577869554308" duration="167000" />
+      <workItem from="1577871581601" duration="1754000" />
+      <workItem from="1577969045338" duration="1506000" />
+      <workItem from="1578039836197" duration="796000" />
+      <workItem from="1578142100288" duration="908000" />
     </task>
     <task id="LOCAL-00001" summary="乱七八糟">
       <created>1574090865896</created>
@@ -320,7 +334,63 @@
       <option name="project" value="LOCAL" />
       <updated>1576497627869</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="这个题目哈哈哈">
+      <created>1576637744875</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1576637744875</updated>
+    </task>
+    <task id="LOCAL-00026" summary="脑壳爆炸">
+      <created>1576670690786</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1576670690786</updated>
+    </task>
+    <task id="LOCAL-00027" summary="12.23(1)">
+      <created>1577092951769</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1577092951769</updated>
+    </task>
+    <task id="LOCAL-00028" summary="12.23(2)">
+      <created>1577105909257</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1577105909257</updated>
+    </task>
+    <task id="LOCAL-00029" summary="2020.1.1(2)">
+      <created>1577868343088</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1577868343088</updated>
+    </task>
+    <task id="LOCAL-00030" summary="2020.1.1(3)">
+      <created>1577872588072</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1577872588072</updated>
+    </task>
+    <task id="LOCAL-00031" summary="2020.1.2(2)">
+      <created>1577970505107</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1577970505107</updated>
+    </task>
+    <task id="LOCAL-00032" summary="2020.1.3(1)">
+      <created>1578041016732</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1578041016732</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,8 +410,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="乱七八糟" />
-    <MESSAGE value="111" />
     <MESSAGE value="19.11.19 JDBC接口、事务学习" />
     <MESSAGE value="Leet206" />
     <MESSAGE value="19.11.20 JavaWeb和HTML" />
@@ -359,7 +427,15 @@
     <MESSAGE value="基础程序设计" />
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="这个题目哈哈哈" />
+    <MESSAGE value="脑壳爆炸" />
+    <MESSAGE value="12.23(1)" />
+    <MESSAGE value="12.23(2)" />
+    <MESSAGE value="2020.1.1(2)" />
+    <MESSAGE value="2020.1.1(3)" />
+    <MESSAGE value="2020.1.2(2)" />
+    <MESSAGE value="2020.1.3(1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.1.3(1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
