@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leet14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leet234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet2_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode100/Leet1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode100/Leet1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leet1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leet83">
+  <component name="RunManager" selected="Application.Leet1">
+    <configuration name="Leet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leet1" />
+      <module name="Leetcode100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Leet83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leet83" />
       <module name="Leetcode100" />
@@ -71,13 +79,6 @@
     </configuration>
     <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyThread" />
-      <module name="Leetcode100" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Newcoder_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Newcoder_2" />
       <module name="Leetcode100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leet1" />
         <item itemvalue="Application.Leet83" />
         <item itemvalue="Application.Ttest" />
         <item itemvalue="Application.Runnabletest" />
         <item itemvalue="Application.MyThread" />
-        <item itemvalue="Application.Newcoder_2" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +172,13 @@
       <workItem from="1578579642081" duration="411000" />
       <workItem from="1578647595564" duration="399000" />
       <workItem from="1579002242918" duration="3000" />
-      <workItem from="1579007001995" duration="494000" />
+      <workItem from="1579007001995" duration="706000" />
+      <workItem from="1579264216940" duration="961000" />
+      <workItem from="1579271508888" duration="1201000" />
+      <workItem from="1579336972168" duration="887000" />
+      <workItem from="1580278246994" duration="147000" />
+      <workItem from="1580280320164" duration="387000" />
+      <workItem from="1580285061985" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary="乱七八糟">
       <created>1574090865896</created>
@@ -446,7 +453,35 @@
       <option name="project" value="LOCAL" />
       <updated>1578654851774</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="这几天做实验了，停了几天的刷题，心疼我的进度，哭唧唧">
+      <created>1579007687316</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1579007687316</updated>
+    </task>
+    <task id="LOCAL-00041" summary="1.17(1)">
+      <created>1579265156684</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1579265156684</updated>
+    </task>
+    <task id="LOCAL-00042" summary="1.17(3)">
+      <created>1579272695637</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1579272695637</updated>
+    </task>
+    <task id="LOCAL-00043" summary="1.18(1)">
+      <created>1579337847782</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1579337847782</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,10 +501,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="web服务器软件Tomcat学习以及简单servlet" />
-    <MESSAGE value="Servlet学习&#10;HTTP协议学习&#10;以及Request" />
-    <MESSAGE value="刷题" />
-    <MESSAGE value="写的自己都看不下去" />
     <MESSAGE value="我对自己狠无语" />
     <MESSAGE value="我对自己很无语" />
     <MESSAGE value="写的什么玩意儿" />
@@ -491,7 +522,11 @@
     <MESSAGE value="dp我不怕你！略略略略略，我终于开始学会了" />
     <MESSAGE value="1.8(2)" />
     <MESSAGE value="1.9(2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.9(2)" />
+    <MESSAGE value="这几天做实验了，停了几天的刷题，心疼我的进度，哭唧唧" />
+    <MESSAGE value="1.17(1)" />
+    <MESSAGE value="1.17(3)" />
+    <MESSAGE value="1.18(1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.18(1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
