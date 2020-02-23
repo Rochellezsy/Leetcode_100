@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leet973.java" afterDir="false" />
+    <list default="true" id="c406d9da-64df-4e7a-ac81-d87689eecee2" name="Default Changelist" comment="2.10(1)">
+      <change afterPath="$PROJECT_DIR$/src/Test_0223_2/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test_0223_2/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test_0223_2/T3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode100/Leet1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode100/Leet1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode100/Leet24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode100/Leet24.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,6 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -61,49 +78,73 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leet973">
-    <configuration name="Leet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet1" />
+  <component name="RunManager" selected="Application.T3 (1)">
+    <configuration name="Quicksort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quicksort2" />
       <module name="Leetcode100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet784" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet784" />
+    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_0223_2.T1" />
       <module name="Leetcode100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test_0223_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet83" />
+    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_0230_1.T2" />
       <module name="Leetcode100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test_0230_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet973" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leet973" />
+    <configuration name="T3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_0223_2.T3" />
       <module name="Leetcode100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test_0223_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ttest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ttest" />
+    <configuration name="T3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_0230_1.T3" />
       <module name="Leetcode100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test_0230_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Leet973" />
-        <item itemvalue="Application.Leet784" />
-        <item itemvalue="Application.Leet1" />
-        <item itemvalue="Application.Leet83" />
-        <item itemvalue="Application.Ttest" />
+        <item itemvalue="Application.T3 (1)" />
+        <item itemvalue="Application.T1" />
+        <item itemvalue="Application.T3" />
+        <item itemvalue="Application.T2" />
+        <item itemvalue="Application.Quicksort2" />
       </list>
     </recent_temporary>
   </component>
@@ -185,308 +226,30 @@
       <workItem from="1580726083898" duration="64000" />
       <workItem from="1580727947605" duration="3679000" />
       <workItem from="1580816596998" duration="4073000" />
-      <workItem from="1580894473689" duration="4168000" />
-    </task>
-    <task id="LOCAL-00012" summary="Servlet学习&#10;HTTP协议学习&#10;以及Request">
-      <created>1574765052131</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1574765052131</updated>
-    </task>
-    <task id="LOCAL-00013" summary="刷题">
-      <created>1574957331057</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1574957331057</updated>
-    </task>
-    <task id="LOCAL-00014" summary="刷题">
-      <created>1575021689582</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1575021689582</updated>
-    </task>
-    <task id="LOCAL-00015" summary="刷题">
-      <created>1575112973705</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1575112973705</updated>
-    </task>
-    <task id="LOCAL-00016" summary="刷题">
-      <created>1575124701744</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1575124701744</updated>
-    </task>
-    <task id="LOCAL-00017" summary="刷题">
-      <created>1575205821998</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1575205821998</updated>
-    </task>
-    <task id="LOCAL-00018" summary="刷题">
-      <created>1575292937274</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1575292937274</updated>
-    </task>
-    <task id="LOCAL-00019" summary="写的自己都看不下去">
-      <created>1575372253543</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1575372253543</updated>
-    </task>
-    <task id="LOCAL-00020" summary="我对自己很无语">
-      <created>1575469598213</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1575469598213</updated>
-    </task>
-    <task id="LOCAL-00021" summary="写的什么玩意儿">
-      <created>1575797497701</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1575797497701</updated>
-    </task>
-    <task id="LOCAL-00022" summary="基础程序设计">
-      <created>1575898106822</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1575898106822</updated>
-    </task>
-    <task id="LOCAL-00023" summary="1">
-      <created>1576226749712</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1576226749712</updated>
-    </task>
-    <task id="LOCAL-00024" summary="2">
-      <created>1576497627869</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1576497627869</updated>
-    </task>
-    <task id="LOCAL-00025" summary="这个题目哈哈哈">
-      <created>1576637744875</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1576637744875</updated>
-    </task>
-    <task id="LOCAL-00026" summary="脑壳爆炸">
-      <created>1576670690786</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1576670690786</updated>
-    </task>
-    <task id="LOCAL-00027" summary="12.23(1)">
-      <created>1577092951769</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1577092951769</updated>
-    </task>
-    <task id="LOCAL-00028" summary="12.23(2)">
-      <created>1577105909257</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1577105909257</updated>
-    </task>
-    <task id="LOCAL-00029" summary="2020.1.1(2)">
-      <created>1577868343088</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1577868343088</updated>
-    </task>
-    <task id="LOCAL-00030" summary="2020.1.1(3)">
-      <created>1577872588072</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1577872588072</updated>
-    </task>
-    <task id="LOCAL-00031" summary="2020.1.2(2)">
-      <created>1577970505107</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1577970505107</updated>
-    </task>
-    <task id="LOCAL-00032" summary="2020.1.3(1)">
-      <created>1578041016732</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1578041016732</updated>
-    </task>
-    <task id="LOCAL-00033" summary="2020.1.4(1)">
-      <created>1578143267043</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1578143267043</updated>
-    </task>
-    <task id="LOCAL-00034" summary="刷了一些简单题，啊啊啊啊，动态规划和递归我还是用的不熟练啊，我要变聪明，变！">
-      <created>1578319754075</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1578319754075</updated>
-    </task>
-    <task id="LOCAL-00035" summary="变美丽！变聪明！xixi">
-      <created>1578391507096</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1578391507096</updated>
-    </task>
-    <task id="LOCAL-00036" summary="dp我不怕你！略略略略略，我终于开始学会了">
-      <created>1578404821793</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1578404821793</updated>
-    </task>
-    <task id="LOCAL-00037" summary="1.8(2)">
-      <created>1578485578526</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1578485578526</updated>
-    </task>
-    <task id="LOCAL-00038" summary="1.9(2)">
-      <created>1578580033808</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1578580033809</updated>
-    </task>
-    <task id="LOCAL-00039" summary="1.9(2)">
-      <created>1578654851774</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1578654851774</updated>
-    </task>
-    <task id="LOCAL-00040" summary="这几天做实验了，停了几天的刷题，心疼我的进度，哭唧唧">
-      <created>1579007687316</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1579007687316</updated>
-    </task>
-    <task id="LOCAL-00041" summary="1.17(1)">
-      <created>1579265156684</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1579265156684</updated>
-    </task>
-    <task id="LOCAL-00042" summary="1.17(3)">
-      <created>1579272695637</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1579272695637</updated>
-    </task>
-    <task id="LOCAL-00043" summary="1.18(1)">
-      <created>1579337847782</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1579337847782</updated>
-    </task>
-    <task id="LOCAL-00044" summary="1.29(2)">
-      <created>1580285541704</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1580285541704</updated>
-    </task>
-    <task id="LOCAL-00045" summary="1.30(3)&#10;对hashmap的使用还需要加强联系">
-      <created>1580378182474</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1580378182474</updated>
-    </task>
-    <task id="LOCAL-00046" summary="1.30(5)">
-      <created>1580382426438</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1580382426438</updated>
-    </task>
-    <task id="LOCAL-00047" summary="1.30(5)">
-      <created>1580460900987</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1580460900987</updated>
-    </task>
-    <task id="LOCAL-00048" summary="103用两个栈判断奇偶">
-      <created>1580629111313</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1580629111313</updated>
-    </task>
-    <task id="LOCAL-00049" summary="105递归">
-      <created>1580629721000</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1580629721000</updated>
-    </task>
-    <task id="LOCAL-00050" summary="2.2刷了六道中等题，刷题能力明显有进步">
-      <created>1580630981326</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1580630981326</updated>
-    </task>
-    <task id="LOCAL-00051" summary="回溯算法刷题">
-      <created>1580729695217</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1580729695217</updated>
-    </task>
-    <task id="LOCAL-00052" summary="回溯算法刷题现在思路很清晰">
-      <created>1580731706865</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1580731706865</updated>
-    </task>
-    <task id="LOCAL-00053" summary="进步很大，加油">
-      <created>1580732062824</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1580732062825</updated>
-    </task>
-    <task id="LOCAL-00054" summary="子集的练习">
-      <created>1580817211995</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1580817211995</updated>
+      <workItem from="1580894473689" duration="4853000" />
+      <workItem from="1580982078095" duration="6723000" />
+      <workItem from="1581075185026" duration="2088000" />
+      <workItem from="1581163771384" duration="4497000" />
+      <workItem from="1581244618199" duration="754000" />
+      <workItem from="1581334096830" duration="1792000" />
+      <workItem from="1581417087008" duration="2780000" />
+      <workItem from="1581506869769" duration="2239000" />
+      <workItem from="1581572118064" duration="1494000" />
+      <workItem from="1581597368688" duration="5218000" />
+      <workItem from="1581665608498" duration="5903000" />
+      <workItem from="1581748517840" duration="5618000" />
+      <workItem from="1581841520962" duration="8486000" />
+      <workItem from="1581866298202" duration="7000" />
+      <workItem from="1581929964979" duration="220000" />
+      <workItem from="1581930995049" duration="5000" />
+      <workItem from="1581931013803" duration="4476000" />
+      <workItem from="1581949852527" duration="526000" />
+      <workItem from="1582018545840" duration="225000" />
+      <workItem from="1582028199914" duration="9700000" />
+      <workItem from="1582193439782" duration="1972000" />
+      <workItem from="1582274295621" duration="3492000" />
+      <workItem from="1582367855346" duration="935000" />
+      <workItem from="1582446341872" duration="5870000" />
     </task>
     <task id="LOCAL-00055" summary="字母大小的全排列">
       <created>1580818643111</created>
@@ -530,7 +293,308 @@
       <option name="project" value="LOCAL" />
       <updated>1580897295409</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="掌握了topK算法">
+      <created>1580899357548</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1580899357548</updated>
+    </task>
+    <task id="LOCAL-00062" summary="快刷了100题了">
+      <created>1580983904771</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1580983904771</updated>
+    </task>
+    <task id="LOCAL-00063" summary="刷到100题了">
+      <created>1580985208499</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1580985208499</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Leet56debug通过，一遍AC有难度，对于二分法的话需要debug，很多条件要考虑清楚">
+      <created>1580987863545</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1580987863545</updated>
+    </task>
+    <task id="LOCAL-00065" summary="二分法注意细节">
+      <created>1580989943399</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1580989943399</updated>
+    </task>
+    <task id="LOCAL-00066" summary="2.6final">
+      <created>1580990214327</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1580990214327</updated>
+    </task>
+    <task id="LOCAL-00067" summary="动态规划的题目可以了">
+      <created>1581077475462</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1581077475462</updated>
+    </task>
+    <task id="LOCAL-00068" summary="sheji">
+      <created>1581168406025</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1581168406025</updated>
+    </task>
+    <task id="LOCAL-00069" summary="数学题">
+      <created>1581169069421</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1581169069421</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Leet50">
+      <created>1581169201702</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1581169201702</updated>
+    </task>
+    <task id="LOCAL-00071" summary="平方根">
+      <created>1581169401030</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1581169401030</updated>
+    </task>
+    <task id="LOCAL-00072" summary="2.9(3)">
+      <created>1581245700723</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1581245700723</updated>
+    </task>
+    <task id="LOCAL-00073" summary="1、左边数相乘&#10;2、乘右边数相乘">
+      <created>1581334411074</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1581334411074</updated>
+    </task>
+    <task id="LOCAL-00074" summary="螺旋矩阵">
+      <created>1581334791450</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1581334791450</updated>
+    </task>
+    <task id="LOCAL-00075" summary="2.10(3)">
+      <created>1581335958549</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1581335958549</updated>
+    </task>
+    <task id="LOCAL-00076" summary="2.10(1)">
+      <created>1581418212726</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1581418212726</updated>
+    </task>
+    <task id="LOCAL-00077" summary="2.10(2)">
+      <created>1581421610745</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1581421610745</updated>
+    </task>
+    <task id="LOCAL-00078" summary="239滑动窗口最大值">
+      <created>1581507881409</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1581507881409</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Leet76最小覆盖子串，滑动窗口，HashMap用来做记录">
+      <created>1581508948044</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1581508948044</updated>
+    </task>
+    <task id="LOCAL-00080" summary="排序数组使用归并算法">
+      <created>1581573840493</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1581573840493</updated>
+    </task>
+    <task id="LOCAL-00081" summary="指针排序，归并算法">
+      <created>1581597996658</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1581597996658</updated>
+    </task>
+    <task id="LOCAL-00082" summary="复制带随机指针的链表,复制各个节点">
+      <created>1581598855105</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1581598855105</updated>
+    </task>
+    <task id="LOCAL-00083" summary="二叉树">
+      <created>1581602641673</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1581602641673</updated>
+    </task>
+    <task id="LOCAL-00084" summary="向量状态机太恶心了">
+      <created>1581670542392</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1581670542392</updated>
+    </task>
+    <task id="LOCAL-00085" summary="接雨水（1、先找到最高点，左边右边分别计算）">
+      <created>1581682248030</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1581682248030</updated>
+    </task>
+    <task id="LOCAL-00086" summary="头都绕晕掉了">
+      <created>1581763822080</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1581763822081</updated>
+    </task>
+    <task id="LOCAL-00087" summary="递归做法">
+      <created>1581764619147</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1581764619147</updated>
+    </task>
+    <task id="LOCAL-00088" summary="2.16(1)">
+      <created>1581845451315</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1581845451316</updated>
+    </task>
+    <task id="LOCAL-00089" summary="最大堆">
+      <created>1581850040188</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1581850040188</updated>
+    </task>
+    <task id="LOCAL-00090" summary="2.10(2)LRU">
+      <created>1581857877646</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1581857877646</updated>
+    </task>
+    <task id="LOCAL-00091" summary="2.17(1)多线程">
+      <created>1581933013172</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1581933013172</updated>
+    </task>
+    <task id="LOCAL-00092" summary="二叉树">
+      <created>1581940043765</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1581940043765</updated>
+    </task>
+    <task id="LOCAL-00093" summary="不同的二叉搜索树">
+      <created>1582033185296</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1582033185296</updated>
+    </task>
+    <task id="LOCAL-00094" summary="二叉树2">
+      <created>1582037531220</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1582037531220</updated>
+    </task>
+    <task id="LOCAL-00095" summary="二叉树练习3">
+      <created>1582039929272</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1582039929272</updated>
+    </task>
+    <task id="LOCAL-00096" summary="股票动态规划问题">
+      <created>1582044031122</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1582044031122</updated>
+    </task>
+    <task id="LOCAL-00097" summary="股票问题1">
+      <created>1582109981998</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1582109981999</updated>
+    </task>
+    <task id="LOCAL-00098" summary="股票问题all kill;">
+      <created>1582113060814</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1582113060814</updated>
+    </task>
+    <task id="LOCAL-00099" summary="股票问题3">
+      <created>1582113448222</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1582113448222</updated>
+    </task>
+    <task id="LOCAL-00100" summary="剪绳子">
+      <created>1582198969116</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1582198969117</updated>
+    </task>
+    <task id="LOCAL-00101" summary="练习">
+      <created>1582293138008</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1582293138009</updated>
+    </task>
+    <task id="LOCAL-00102" summary="递归练习">
+      <created>1582368981291</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1582368981291</updated>
+    </task>
+    <task id="LOCAL-00103" summary="2.23(1)">
+      <created>1582450240839</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1582450240839</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,32 +614,32 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="变美丽！变聪明！xixi" />
-    <MESSAGE value="dp我不怕你！略略略略略，我终于开始学会啦" />
-    <MESSAGE value="dp我不怕你！略略略略略，我终于开始学会了" />
-    <MESSAGE value="1.8(2)" />
-    <MESSAGE value="1.9(2)" />
-    <MESSAGE value="这几天做实验了，停了几天的刷题，心疼我的进度，哭唧唧" />
-    <MESSAGE value="1.17(1)" />
-    <MESSAGE value="1.17(3)" />
-    <MESSAGE value="1.18(1)" />
-    <MESSAGE value="1.29(2)" />
-    <MESSAGE value="1.30(3)&#10;对hashmap的使用还需要加强联系" />
-    <MESSAGE value="1.30(5)" />
-    <MESSAGE value="103用两个栈判断奇偶" />
-    <MESSAGE value="105递归" />
-    <MESSAGE value="2.2刷了六道中等题，刷题能力明显有进步" />
-    <MESSAGE value="回溯算法刷题" />
-    <MESSAGE value="回溯算法刷题现在思路很清晰" />
-    <MESSAGE value="进步很大，加油" />
-    <MESSAGE value="子集的练习" />
-    <MESSAGE value="字母大小的全排列" />
-    <MESSAGE value="单词搜索" />
-    <MESSAGE value="单词搜索困难版解锁，换一种方式写，但是注意的是回溯法一定回去之后一定要把变量改回去" />
-    <MESSAGE value="三路归并，三个指针" />
-    <MESSAGE value="优先队列" />
-    <MESSAGE value="优先队列相关题目联系" />
-    <option name="LAST_COMMIT_MESSAGE" value="优先队列相关题目联系" />
+    <MESSAGE value="Leet76最小覆盖子串，滑动窗口，HashMap用来做记录" />
+    <MESSAGE value="排序数组使用归并算法" />
+    <MESSAGE value="指针排序，归并算法" />
+    <MESSAGE value="复制带随机指针的链表,复制各个节点" />
+    <MESSAGE value="向量状态机太恶心了" />
+    <MESSAGE value="接雨水（1、先找到最高点，左边右边分别计算）" />
+    <MESSAGE value="头都绕晕掉了" />
+    <MESSAGE value="递归做法" />
+    <MESSAGE value="2.16(1)" />
+    <MESSAGE value="最大堆" />
+    <MESSAGE value="2.10(2)LRU" />
+    <MESSAGE value="2.17(1)多线程" />
+    <MESSAGE value="二叉树" />
+    <MESSAGE value="不同的二叉搜索树" />
+    <MESSAGE value="二叉树2" />
+    <MESSAGE value="二叉树练习3" />
+    <MESSAGE value="股票动态规划问题" />
+    <MESSAGE value="股票问题1" />
+    <MESSAGE value="股票问题all kill;" />
+    <MESSAGE value="股票问题3" />
+    <MESSAGE value="2.10(1)" />
+    <MESSAGE value="剪绳子" />
+    <MESSAGE value="练习" />
+    <MESSAGE value="递归练习" />
+    <MESSAGE value="2.23(1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.23(1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -586,9 +650,14 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leet973.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/src/Leet25.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test_0223_2/T3.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
